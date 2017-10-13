@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a graduate student of computer science at USC. My interested domains are NLP and Deep learning.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Now I am seeking for full-time software engineer job.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chengle@usc.edu](mailto:chengle@usc.edu)
